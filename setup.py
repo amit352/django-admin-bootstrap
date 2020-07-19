@@ -8,7 +8,7 @@ f.close()
 
 setup(
     name='bootstrap_admin',
-    version='0.4.4',
+    version='0.4.5',
     description='Responsive Theme for Django Admin With Sidebar Menu (Django 1.11)',
     long_description=readme,
     author='Douglas Miranda',
